@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
+
+ /* header and footer */
+body {
+    background-color : #f9f9f9 !important;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    background-color: #00E1D9;
+    color: black;   
+    text-align: center;
+    padding: 3em;
+    margin-top: 50px;
+}
+
+.icon-footer {
+    width: 50px;
+    margin: 0 10px;
+    margin-bottom: 40px;
+    
+}
+
+ul.footer-links {
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul.footer-links li {
+    display: inline-block;
+}
+
+ul.footer-links li a {
+    color: black;
+    font-size: .8em;
+}
+/* header and footer */
+
+/* home content */
+.slider-size {
+    width: 100%;
+    height: 550px;
+    opacity: 0.8;
+}
+
+.head1, .para1 {
+    text-align: center;
+}
+
+.head1 {
+    margin: 50px 0 50px;
+}
+
+.para1 {
+    margin: 200px 0 200px;
+    font-size: 2em;
+}
+
+.img-offer {
+    width: 100px;
+}
+
+.container-ad {
+    text-align: center;
+    padding: .8em 1.2em;
+    margin-top: 100px;
+}
+
+.cta {
+    background: #00cc80;
+    width: 50%;
+    display: block;
+    border-radius: 20px;
+    color: white;
+    padding: .5em;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin: 3% auto 7%;
+    position: relative;
+    z-index: 4;
+}
+
+.cta:hover {
+    text-decoration: none;
+    color: white;
+}
+/* home content */

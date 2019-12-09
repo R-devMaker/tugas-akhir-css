@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="663.5" height="335.974" viewBox="0 0 663.5 335.974">
+  <g id="Group_1" data-name="Group 1" transform="translate(-387 -167.948)">
+    <g id="Logo">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(387 207)" fill="#5e001f" stroke="#707070" stroke-width="1">
+        <ellipse cx="140.5" cy="127" rx="140.5" ry="127" stroke="none"/>
+        <ellipse cx="140.5" cy="127" rx="140" ry="126.5" fill="none"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(436 246)" fill="#fff" stroke="#707070" stroke-width="1">
+        <ellipse cx="91" cy="88" rx="91" ry="88" stroke="none"/>
+        <ellipse cx="91" cy="88" rx="90.5" ry="87.5" fill="none"/>
+      </g>
+      <g id="Polygon_1" data-name="Polygon 1" transform="translate(569.571 410.052) rotate(150)" fill="#00e1d9">
+        <path d="M 39.45892333984375 252.5 L 0.5410783290863037 252.5 L 20 6.344640731811523 L 39.45892333984375 252.5 Z" stroke="none"/>
+        <path d="M 20 12.68959045410156 L 1.082180023193359 252 L 38.91781997680664 252 L 20 12.68959045410156 M 20 0 L 40 253 L 0 253 L 20 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(532.13 428.578) rotate(-30)" fill="#00e1d9">
+        <path d="M 42.36139297485352 86.5 L 0.638607382774353 86.5 L 21.5 2.084132194519043 L 42.36139297485352 86.5 Z" stroke="none"/>
+        <path d="M 21.5 4.168258666992188 L 1.277214050292969 86 L 41.72278594970703 86 L 21.5 4.168258666992188 M 21.5 0 L 43 87 L 0 87 L 21.5 0 Z" stroke="none" fill="#295f2d"/>
+      </g>
+      <g id="Polygon_2" data-name="Polygon 2" transform="translate(610.571 387.052) rotate(150)" fill="#00e1d9">
+        <path d="M 39.45892333984375 252.5 L 0.5410783290863037 252.5 L 20 6.344640731811523 L 39.45892333984375 252.5 Z" stroke="none"/>
+        <path d="M 20 12.68959045410156 L 1.082180023193359 252 L 38.91781997680664 252 L 20 12.68959045410156 M 20 0 L 40 253 L 0 253 L 20 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Polygon_4" data-name="Polygon 4" transform="translate(573.13 405.578) rotate(-30)" fill="#00e1d9">
+        <path d="M 42.36139297485352 86.5 L 0.638607382774353 86.5 L 21.5 2.084132194519043 L 42.36139297485352 86.5 Z" stroke="none"/>
+        <path d="M 21.5 4.168258666992188 L 1.277214050292969 86 L 41.72278594970703 86 L 21.5 4.168258666992188 M 21.5 0 L 43 87 L 0 87 L 21.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+    <text id="Gost_Technology" data-name="Gost Technology" transform="translate(668.5 268)" font-size="56" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="125.032" y="54">Gost </tspan><tspan x="23.812" y="122">Technology</tspan></text>
+  </g>
+</svg>
